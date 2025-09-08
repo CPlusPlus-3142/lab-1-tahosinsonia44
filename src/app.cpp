@@ -30,7 +30,7 @@ int closestPrime(int x){
  * The test.cpp file will include the main in your submission. You do not edit the test.cpp 
  * file. The only file to edit is app.cpp**/
 
-int main()
+/*int main()
 {
     int a, b;
     cout << "Enter two numbers: ";
@@ -50,5 +50,5 @@ int main()
     cout << b << " is not prime. Closet prime is " << closestPrime(b) << "." << endl;
     }
     return 0;          
-}
+}*/
 
